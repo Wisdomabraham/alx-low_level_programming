@@ -1,4 +1,3 @@
-:set number
 #include "lists.h"
 
 /**
